@@ -4,7 +4,7 @@ This repository contains the code for a simple chatbot built using HTML, CSS, an
 
 ## Demo
 
-[Link to Demo](https://github.com/Sulagna-pradhan/Chatbot)
+[Link to Demo](https://chatterbotz.netlify.app)
 
 ## Features
 
